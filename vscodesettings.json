@@ -1,0 +1,13 @@
+{
+    "editor.fontLigatures": true,
+    "editor.fontFamily":  "Fira Code",
+    "editor.fontSize": 18,
+    "editor.fontWeight": "normal",
+    "editor.lineHeight": 20,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontWeight": "normal",
+    "editor.guides.bracketPairs": "active",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2
+}
