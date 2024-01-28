@@ -1,0 +1,38 @@
+{
+  "editor.fontLigatures": true,
+  "editor.fontFamily":  "Fira Code",
+  "editor.fontSize": 18,
+  "editor.fontWeight": "normal",
+  "editor.lineHeight": 0,
+  "explorer.confirmDelete": false,
+  "terminal.integrated.fontFamily": "Fira Code",
+  "terminal.integrated.fontWeight": "normal",
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "cmake.configureOnOpen": false,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "redhat.telemetry.enabled": false,
+  "settingsSync.ignoredExtensions": [
+    "ms-ceintl.vscode-language-pack-zh-hans"
+  ],
+  "lldb.suppressUpdateNotifications": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "remote.SSH.remotePlatform": {
+    "172.21.212.97": "linux"
+  },
+  "debug.onTaskErrors": "showErrors",
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.inheritEnv": false,
+  "launch": {
+  
+    "configurations": [],
+    "compounds": []
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.fontVariations": false,
+  "cmake.showOptionsMovedNotification": false,
+  "window.zoomLevel": -1,
+}
